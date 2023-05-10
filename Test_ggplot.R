@@ -21,4 +21,4 @@ ggplot(data = mtcars, aes(x = wt, y = mpg)) +
 
 # Change the point size, and shape
 ggplot(mtcars, aes(x = wt, y = mpg)) +
-  geom_point(size = 2, shape = 19,color="blue)
+  geom_point(size = 2, shape = 19,color="blue")
